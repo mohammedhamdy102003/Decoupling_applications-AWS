@@ -1,4 +1,4 @@
-![Architecture Diagram](/Decoupling_applications-AWS/decoupling%20project.webp)
+![AWS Serverless Architecture](https://raw.githubusercontent.com/mohammedhamdy102003/Decoupling_applications-AWS/main/decoupling%20project.webp)
 
 # Decoupling_applications AWS Order Processing System
 
